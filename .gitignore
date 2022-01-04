@@ -1,0 +1,3 @@
+qlearning/logs/*
+.idea
+qlearning/models/*
